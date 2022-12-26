@@ -10,8 +10,8 @@ a simple html,css and js making a calculator
 
 ### technologies
  1.  HTML
- 2. CSS - (framework)
- 3. Java scripts - react,next
+ 2. CSS 
+ 3. Java scripts 
  
 
  - [Objectives](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
